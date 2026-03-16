@@ -1,7 +1,7 @@
 
 ## What is VectorFaces?
 
-[**Try the live demo**](https://play.instruqt.com/embed/elastic-pmm/tracks/vectorfaces?token=em_MtlVByxAl7nGp4Pw) with `start-local` on a single CPU.
+[**Try the live demo**](https://www.elastic.co/demo-gallery/vector-search-celebrity-faces) with `start-local` on a single CPU.
 
 ![](doc/vectorfaces.gif)
 
