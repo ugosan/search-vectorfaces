@@ -209,3 +209,7 @@ docker-compose up
 ```
 
 Open `http://localhost:16700` and start testing!
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) file for details.
